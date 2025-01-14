@@ -26,4 +26,4 @@ A imagem abaixo, apresenta a resposta do ping feito do PC1 (192.168.1.10) para o
 ![images](https://github.com/phatima05/proz-topologia-de-rede/blob/main/images/Rede_CISCO.png)
 
 ´´´
-Projeto: ![images](https://github.com/phatima05/proz-topologia-de-rede/blob/main/images/Rede.pkt)
+Projeto: ![Rede](https://github.com/phatima05/proz-topologia-de-rede/blob/main/images/Rede.pkt)
