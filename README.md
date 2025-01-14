@@ -1,4 +1,4 @@
-# Rede para o Show da Banda de Miguel
+# Rede para o show da banda de Miguel
 
 Esse projeto, desenvolvido para o curso Arquitetos de Nuvem AWS, da Proz Educação, aborda a necessidade de comunicação eficiente entre a equipe de produção durante o show da banda de Miguel. Para isso, foi necessário criar uma rede em topologia estrela, no Cisco Packet Tracer, permitindo a comunicação fluida entre os membros da equipe.
 
