@@ -21,7 +21,7 @@ A rede consiste em um switch central conectando quatro PCs, representando os mem
 ![images](https://github.com/phatima05/proz-topologia-de-rede/blob/main/images/Topologia_Rede_CISCO.png)
 
 
-A imagem abaixo, apresenta a resposta do ping feito do PC1 (192.168.1.10) para o PC2 (192.168.1.11):
+A imagem abaixo, apresenta a resposta do ping feito do PC1 (192.168.1.10) para o PC2 (192.168.1.11), para demonstrar a conectividade da rede:
 
 ![images](https://github.com/phatima05/proz-topologia-de-rede/blob/main/images/Rede_CISCO.png)
 
